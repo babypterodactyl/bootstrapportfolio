@@ -1,0 +1,22 @@
+
+<!-- horizontal rule-->
+
+<div class="row">
+      <div class="col-md-12">
+        <hr>
+      </div>
+    </div>
+
+
+<!-- footer and facebook like -->
+
+    <div class="row">
+      <footer class="col-md-6">
+        <sup>Copyright &copy; 2017 Baby Pterodactyl</sup>
+      </footer>
+
+
+
+      <div class="fb-like col-md-6" data-href="https://www.facebook.com/babypterodactylweb/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true">
+      </div>
+      </row>
