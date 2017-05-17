@@ -1,0 +1,77 @@
+body {
+  font-family: "Love Ya Like A Sister", cursive;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo {
+  height: 200px;
+  width: 200px;
+}
+
+.super {
+  margin-top: 50px;
+  font-size: 4em;
+}
+
+.subheading {
+  margin-top: 20px;
+  font-weight: lighter;
+  font-size: 2.5em;
+}
+
+hr {
+  border: 2.5px solid turquoise;
+}
+
+@media screen and (max-width: 990px) {
+  .main-image {
+    margin-bottom: 40px;
+  }
+}
+
+.featured,
+.email {
+  padding: 5px;
+  margin-top: 60px;
+  font-size: 3em;
+}
+
+@media screen and (max-width: 990px) {
+  .featured,
+  .email {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+
+/* This needs a media query to center it on small screens and it also needs the margin-top of the pic below it adjusted so it's not so far away */
+
+.project {
+  margin-top: 30px;
+}
+
+footer {
+  padding-top: 50px;
+  font-size: 1.5em;
+  color: darkgray;
+}
+
+
+.fb-like {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
